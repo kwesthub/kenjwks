@@ -8,14 +8,6 @@
       "x": "AEy4ed18ifUSLaLHpPHOoyc2kBGYqLvuKus7m37rl6x95amM9sk7utnRpgZGsCx6IstyzosNm58d2TTRF34freJv",
       "y": "Ab3_yDySef39TWy93sGESioM-pRZjmjkIKkQCGRx1cvGv7I8bDOw81HT7AZZQ0fALdqqc2STE_vvHMsxA9sHTGQ9",
       "crv": "P-521"
-    }, {
-      "kty": "EC",
-      "kid": "Ip76x6iL3t6pg_y0CvLc-48dk8k",
-      "use": "sig",
-      "alg": "ES256",
-      "x": "OkKhkclnk14J_Om5Wub65GUUrh_SNov9pCdDuH9ZBrE",
-      "y": "jO8xUvkWKPEM8uewOor90zSiYSBzU-3XemWKgbgcpE4",
-      "crv": "P-256"
     }
   ]
 }

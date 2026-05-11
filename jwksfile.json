@@ -1,6 +1,14 @@
 {
   "keys": [
-      
+       {
+      "kty": "EC",
+      "kid": "1gusdNy0R6324_FPSNfUWPTIg6Q",
+      "use": "sig",
+      "alg": "ES512",
+      "x": "AEy4ed18ifUSLaLHpPHOoyc2kBGYqLvuKus7m37rl6x95amM9sk7utnRpgZGsCx6IstyzosNm58d2TTRF34freJv",
+      "y": "Ab3_yDySef39TWy93sGESioM-pRZjmjkIKkQCGRx1cvGv7I8bDOw81HT7AZZQ0fALdqqc2STE_vvHMsxA9sHTGQ9",
+      "crv": "P-521"
+    },
     {
       "kty": "EC",
       "kid": "1gusdNy0R6324_FPSNfUWPTIg6Q",

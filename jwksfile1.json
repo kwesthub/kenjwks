@@ -20,6 +20,16 @@
       "x": "eEA42vnDSp0qJT0uoo8KD4t8Idjb67vNA2-opd6hINo",
       "y": "Bzn7ts-EmQxoC9Wj2kNKeeWEXrEHxP9gU6pTbuPzYQc",
       "crv": "P-256"
+    },
+    
+    {
+      "kty": "EC",
+      "kid": "TiMYeQ9HkLyhSoN53984mB0gkTY",
+      "use": "sig",
+      "alg": "ES256",
+      "x": "zsCbIJj3k9r8J6P6uW0Ok9JtTc2mqiPuU54Z18PTtQE",
+      "y": "gt_tr_UnKnqozZGIGvvWvsgQv71ufYLj_Z4ak2ZCsvM",
+      "crv": "P-256"
     }
 
   ]

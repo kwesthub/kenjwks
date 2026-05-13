@@ -11,17 +11,7 @@
       "y": "oEVVFWaDeA3x1AOAqLPvj7-HWsnkkjuVw4NltRZFwGY",
       "crv": "P-256"
     },
-
-    {
-      "kty": "EC",
-      "kid": "TiMYeQ9HkLyhSoN53984mB0gkTY",
-      "use": "sig",
-      "alg": "ES256",
-      "x": "zsCbIJj3k9r8J6P6uW0Ok9JtTc2mqiPuU54Z18PTtQE",
-      "y": "gt_tr_UnKnqozZGIGvvWvsgQv71ufYLj_Z4ak2ZCsvM",
-      "crv": "P-256"
-    },
-
+    
     {
       "kty": "EC",
       "kid": "NxZtAL0Pdd3l84fzJPA31ms_ufM",
